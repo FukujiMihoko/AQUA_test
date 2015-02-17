@@ -1,4 +1,4 @@
-﻿Build started 2/15/2015 9:35:11 PM.
+﻿Build started 2/17/2015 3:13:29 PM.
      1>Project "C:\Users\Henry\Documents\AQUA_test\Project_test\Project_test\Project_test.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio Ultimate 2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
@@ -10,4 +10,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.64
+Time Elapsed 00:00:01.27
